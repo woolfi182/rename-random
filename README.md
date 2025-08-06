@@ -9,7 +9,7 @@ A simple CLI tool to rename all files in a folder to random names while preservi
 Install globally via npm:
 
 ```bash
-npm install -g rename-random
+npm install -g @whalelaunch/rename-random
 ```
 
 ## Usage

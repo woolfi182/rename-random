@@ -1,10 +1,14 @@
 {
   "name": "@whalelaunch/rename-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI tool to rename all files in a folder to random names while preserving their file extensions.",
   "bin": {
     "rr": "./index.js",
     "rename-random": "./index.js"
+  },
+  "scripts": {
+    "publish:npm": "npm publish --access public",
+    "publish:next": "npm publish --access public --tag next"
   },
   "homepage": "https://github.com/woolfi182/rename-random#readme",
   "bugs": {
@@ -17,8 +21,5 @@
   "license": "ISC",
   "author": "@woolfi182",
   "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "main": "index.js"
 }
