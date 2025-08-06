@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "CLI tool to rename files in a folder to random names",
   "bin": {
-    "rr": "./index.js"
+    "rr": "./index.js",
+    "rename-random": "./index.js"
   },
   "author": "@woolfi182",
   "license": "MIT"
