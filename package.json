@@ -1,6 +1,6 @@
 {
   "name": "rename-random",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "CLI tool to rename files in a folder to random names",
   "bin": {
     "rr": "./index.js",
