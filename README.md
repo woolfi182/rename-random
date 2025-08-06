@@ -77,7 +77,7 @@ The tool includes error handling for:
 
 ## License
 
-MIT
+ISC
 
 ## Author
 
